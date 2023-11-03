@@ -1,3 +1,1 @@
-zea mays snp calling project
-aaa
-Project started 2013-01-03
+samples expected from sequencing core 2013-01-10
